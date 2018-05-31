@@ -1,0 +1,11 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "eslint": "^4.19.1",
+    "node-gyp": "^3.6.2",
+    "or": "^0.2.0",
+    "rebuild": "^0.1.2"
+  }
+}
